@@ -76,7 +76,8 @@ For a full list of clients with more information, check out the [Stoat Clients p
 - [Clerotri](https://github.com/upryzing/clerotri) - Stoat client for Android and web, built with React Native.
 - [Svolte](https://github.com/itzTheMeow/revolt-svolte) - Stoat client made in Svelte with better mobile/PWA support and QOL features.
 - [Refork](https://github.com/alexjyong/android) - Fork of the Android Stoat client with QOL features and de-googled phone support.
-- [ReviteRevived](https://github.com/ReviteRevived/revite) - Fork of the For Legacy Web client with improvements.
+- [ReviteRevived](https://github.com/ReviteRevived/revite) - Fork of the For Legacy Web client with improvements.\
+- [AviaClient](https://github.com/ReviteRevived/revite) - Fork of Web/Desktop Client to add Plugins, Qickcss, And theme support to stoat.
 
 ## Contributing
 
